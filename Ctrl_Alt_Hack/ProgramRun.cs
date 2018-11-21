@@ -2,12 +2,11 @@
 
 namespace Ctrl_Alt_Hack
 {
-    class Program
+    class ProgramRun
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //hello
         }
     }
 }
