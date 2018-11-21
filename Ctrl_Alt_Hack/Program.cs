@@ -7,7 +7,6 @@ namespace Ctrl_Alt_Hack
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello penis");
         }
     }
 }
