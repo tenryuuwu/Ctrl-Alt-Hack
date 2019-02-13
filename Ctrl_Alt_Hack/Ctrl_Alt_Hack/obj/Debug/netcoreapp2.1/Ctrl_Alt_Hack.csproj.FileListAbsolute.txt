@@ -1,0 +1,11 @@
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/bin/Debug/netcoreapp2.1/Ctrl_Alt_Hack.deps.json
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/bin/Debug/netcoreapp2.1/Ctrl_Alt_Hack.runtimeconfig.json
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/bin/Debug/netcoreapp2.1/Ctrl_Alt_Hack.runtimeconfig.dev.json
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/bin/Debug/netcoreapp2.1/Ctrl_Alt_Hack.dll
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/bin/Debug/netcoreapp2.1/Ctrl_Alt_Hack.pdb
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/obj/Debug/netcoreapp2.1/Ctrl_Alt_Hack.csprojAssemblyReference.cache
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/obj/Debug/netcoreapp2.1/Ctrl_Alt_Hack.csproj.CoreCompileInputs.cache
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/obj/Debug/netcoreapp2.1/Ctrl_Alt_Hack.AssemblyInfoInputs.cache
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/obj/Debug/netcoreapp2.1/Ctrl_Alt_Hack.AssemblyInfo.cs
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/obj/Debug/netcoreapp2.1/Ctrl_Alt_Hack.dll
+/Users/ten/Projects/Ctrl_Alt_Hack/Ctrl_Alt_Hack/obj/Debug/netcoreapp2.1/Ctrl_Alt_Hack.pdb

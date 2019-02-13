@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ctrl_Alt_Hack", "Ctrl_Alt_Hack.csproj", "{89EC3067-946B-4FDE-880E-239F6C2449FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EC3067-946B-4FDE-880E-239F6C2449FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC3067-946B-4FDE-880E-239F6C2449FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC3067-946B-4FDE-880E-239F6C2449FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC3067-946B-4FDE-880E-239F6C2449FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
